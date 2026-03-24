@@ -35,8 +35,6 @@ Busco uma oportunidade de estágio em Engenharia de Software onde possa contribu
 
 <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=eijuliamorais&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
-<img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eijuliamorais&theme=tokyonight&layout=compact&langs_count=6" />
-
 </div>
 
 ## 📬 Vamos nos conectar?
