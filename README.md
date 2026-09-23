@@ -1,53 +1,33 @@
-<div align="center">
+# Olá, eu sou a Julia! 
 
-```
-╔══════════════════════════════════════════════════════╗
-║          Bem-vindo(a) ao meu GitHub! 👩‍💻              ║
-╚══════════════════════════════════════════════════════╝
-```
+Estudo Ciência da Computação na Universidade Federal de Lavras e tenho experiência em desenvolvimento de sistemas web e APIs REST. Atuo também com UI/UX Design, unindo a parte de backend com a construção de interfaces.
 
+- 🌎 Estou em Lavras - Minas Gerais
+- 📫 Você pode me contatar em [eijuliamorais@gmail.com](mailto:eijuliamorais@gmail.com)
+- 🎯 Buscando oportunidade de estágio em Engenharia de Software / IA
 
+### Skills
 
+![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,js,py,html,css,figma,git,github)
 
-# 👩‍💻 Julia Morais 
+### Socials
 
-Sou estudante de Ciência da Computação na UFLA, com foco em desenvolvimento backend e construção de APIs REST. Tenho experiência prática com Java, Spring Boot, Spring Data JPA, Node.js e MySQL, adquirida tanto em projetos acadêmicos quanto na minha atuação como membro da Emakers Jr, empresa júnior de tecnologia da UFLA.
-Busco uma oportunidade de estágio em Engenharia de Software onde possa contribuir com o desenvolvimento e a manutenção de sistemas, aplicar boas práticas de programação e continuar evoluindo como desenvolvedora em um ambiente colaborativo e técnico.
-
----
-
-## 🚀 Tecnologias
-
-<div align="center">
-
-| Backend | Banco de Dados | Ferramentas | Design |
-|:-------:|:--------------:|:-----------:|:------:|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) | |
-| ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | | | |
-
-</div>
-
----
-### 📊 Estatísticas
-<div align="center">
-
-<img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=eijuliamorais&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-
-</div>
-
-## 📬 Vamos nos conectar?
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliamorais-997552283)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eijuliamorais@gmail.com)
-
-
-</div>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/julia-morais-997552283)
 
 ---
 
+### Projetos em destaque
 
+**[Zoonix](https://github.com/eijuliamorais/Zoonix)** — sistema web para clínica veterinária, com API em Node.js/Express, MySQL e um agente de IA integrado (API do Gemini) para consultas em linguagem natural ao banco de dados.
 
+**[Gym Management System](https://github.com/eijuliamorais/gym-management-system)** — sistema de gestão de academia em Django, com CRUD completo, painel administrativo customizado e dashboard de alunos, planos e pagamentos.
+
+**[Emakers · Projeto Trainee](https://github.com/eijuliamorais/Emakers-Projeto-Trainee-25-1)** — API REST em Spring Boot para gestão de biblioteca, com autenticação JWT, integração com a API ViaCEP e documentação via Swagger.
+
+**Simulador de Analistas Esportivos** — projeto de POO em Java 21, aplicando herança, polimorfismo, composição e divisão em camadas, com interface web em Vaadin Flow.
+
+---
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eijuliamorais&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="estatísticas do GitHub" />
+</div>
